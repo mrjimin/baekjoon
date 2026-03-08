@@ -16,3 +16,6 @@ list.reverse() // 리스트 뒤집기 > [1, 2, 3, 4, 5]
 val totalMinutes = (h * 60 + m) % (24 * 60)
 val hours = totalMinutes / 60
 val minutes = totalMinutes % 60
+
+// n번 반복
+repeat(n)
